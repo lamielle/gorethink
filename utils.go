@@ -8,7 +8,7 @@ import (
 
 	"github.com/lamielle/gorethink/encoding"
 
-	"github.com/golang/profobuf/proto"
+	"github.com/golang/protobuf/proto"
 	p "github.com/lamielle/gorethink/ql2"
 )
 

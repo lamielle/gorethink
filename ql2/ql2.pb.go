@@ -4,7 +4,7 @@
 
 package ql2
 
-import proto "github.com/golang/profobuf/proto"
+import proto "github.com/golang/protobuf/proto"
 import json "encoding/json"
 import math "math"
 
