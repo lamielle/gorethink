@@ -8,8 +8,8 @@ import (
 
 	"github.com/dancannon/gorethink/encoding"
 
-	"code.google.com/p/goprotobuf/proto"
 	p "github.com/dancannon/gorethink/ql2"
+	"github.com/golang/profobuf/proto"
 )
 
 // Helper functions for constructing terms
