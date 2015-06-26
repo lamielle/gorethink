@@ -5,8 +5,8 @@ import (
 	"errors"
 	"reflect"
 
-	"github.com/dancannon/gorethink/encoding"
-	p "github.com/dancannon/gorethink/ql2"
+	"github.com/lamielle/gorethink/encoding"
+	p "github.com/lamielle/gorethink/ql2"
 )
 
 var (

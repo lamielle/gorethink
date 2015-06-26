@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"log"
 
-	r "github.com/dancannon/gorethink"
+	r "github.com/lamielle/gorethink"
 )
 
 func Example_Get() {

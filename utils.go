@@ -6,10 +6,10 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/dancannon/gorethink/encoding"
+	"github.com/lamielle/gorethink/encoding"
 
-	p "github.com/dancannon/gorethink/ql2"
 	"github.com/golang/profobuf/proto"
+	p "github.com/lamielle/gorethink/ql2"
 )
 
 // Helper functions for constructing terms

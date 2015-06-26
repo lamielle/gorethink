@@ -1,7 +1,7 @@
 package gorethink
 
 import (
-	p "github.com/dancannon/gorethink/ql2"
+	p "github.com/lamielle/gorethink/ql2"
 )
 
 // Create a database. A RethinkDB database is a collection of tables, similar to

@@ -1,7 +1,7 @@
 package gorethink
 
 import (
-	p "github.com/dancannon/gorethink/ql2"
+	p "github.com/lamielle/gorethink/ql2"
 )
 
 // Config can be used to read and/or update the configurations for individual

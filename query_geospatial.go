@@ -1,7 +1,7 @@
 package gorethink
 
 import (
-	p "github.com/dancannon/gorethink/ql2"
+	p "github.com/lamielle/gorethink/ql2"
 )
 
 // CircleOpts describes the optional arguments for a Circle operation

@@ -5,7 +5,7 @@ import (
 
 	"reflect"
 
-	p "github.com/dancannon/gorethink/ql2"
+	p "github.com/lamielle/gorethink/ql2"
 )
 
 var byteSliceType = reflect.TypeOf([]byte(nil))

@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"io"
 
-	p "github.com/dancannon/gorethink/ql2"
+	p "github.com/lamielle/gorethink/ql2"
 )
 
 // Write 'data' to conn
